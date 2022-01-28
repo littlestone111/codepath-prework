@@ -30,11 +30,13 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/icCyheb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif](https://ezgif.com/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I am kind of new to swift. When I try to open the app in the simulator, the main screen doesn't apear. This takes a little bit time to figure out how to reach the main page.
 
 ## License
 
